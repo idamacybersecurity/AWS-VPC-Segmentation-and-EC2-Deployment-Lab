@@ -1,4 +1,4 @@
-# AWS-VPC-Segmentation-and-EC2-Deployment-Lab
+# AWS VPC Segmentation and EC2 Deployment Lab
 
 ## Project Overview
 
